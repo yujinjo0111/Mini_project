@@ -14,7 +14,7 @@ export default function Header(){
                         
                         <div className="titlelogo">
                         
-                        <h2 >kolingo</h2>
+                        <h2 >한클</h2>
                         </div>
                         
                     </Link>
